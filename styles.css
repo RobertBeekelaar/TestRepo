@@ -1,0 +1,10 @@
+.container{
+  text-align: center;
+  list-style-type: none;
+  font-family: Calibri, Arial, Helvetica, sans-serif;
+  margin-top: 200px;
+}
+
+body{
+  background-color: darkslategrey;
+}
